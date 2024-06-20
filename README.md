@@ -14,4 +14,4 @@ llamado "Literalura" Grupo ONE-G6
 - Gutendex
 ---
 ## Software Developer
-:copyright: 2024
+:copyright: Alejandro Marin - Oracle Next Educatión G& - 2024
